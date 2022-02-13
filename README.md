@@ -12,7 +12,7 @@
 
 ## 1. Introducción
 
-<img src="src/img/logo.png" width="180px" height="150px">
+<img src="src/img/logo_white.png" width="180px" height="150px">
 
 Picsa Picsa es una pizzeria pequeña que está creciendo, necesita una interfaz en la que puedan tomar pedidos usando una tablet, y enviarlos a la cocina para que se preparen ordenada y eficientemente.
 
@@ -70,19 +70,19 @@ rápidamente a los clientes que las hicieron.
 
 ### Prototipos de baja fidelidad
 
-<img src="src/img/pb_00.png">
+<img src="src/img/pb_00.png" width="450px" height="600px">
 
-<img src="src/img/pb_01.png">
+<img src="src/img/pb_01.png" width="450px" height="600px">
 
-<img src="src/img/pb_02.png">
+<img src="src/img/pb_02.png" width="450px" height="600px">
 
 ### Prototipos de baja fidelidad
 
-<img src="src/img/pa_00.png">
+<img src="src/img/pa_00.png" width="450px" height="600px">
 
-<img src="src/img/pa_01.png">
+<img src="src/img/pa_01.png" width="450px" height="600px">
 
-<img src="src/img/pa_02.png">
+<img src="src/img/pa_02.png" width="450px" height="600px">
 
 ***
 
