@@ -1,0 +1,100 @@
+body {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: #FFFFFF;
+    background-image: url(./img/fondo.png);
+}
+
+section {
+    display: flex;
+    margin: 2%;
+}
+main {
+    background-color: #242021;
+}
+
+aside {
+    background-color: #242021;
+    margin-left: 2%;
+    width: 50vh;
+    padding: 2%;
+}
+
+article {
+    margin:2%
+}
+
+.menu {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+h1 {
+    color: #FFFFFF;
+    margin-left: 4%;
+}
+
+h2 {
+    color: #EDAC45;
+}
+
+h3 {
+    color: #FFFFFF;
+}
+
+button {
+    background-color: black;
+    color: #FFFFFF;
+    border: none;
+    margin-right: 2%;
+    margin-bottom: 2%;
+    padding: 2%;
+}
+
+button:hover{
+    background-color: #F2585A;
+}
+
+.kitchen-button{
+    background-color: #EDAC45;
+    width: 300px;
+    height: 60px;
+    margin-top: 5%;
+    
+}
+
+.waiter-button{
+    background-color: #93A85B;
+    width: 300px;
+    height: 60px;
+    
+}.buttons-menu{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 5%;
+}
+
+.waiter-button:hover{
+    box-shadow: 5px 10px 8px #A6A0A1;
+}
+
+.kitchen-button:hover{
+    box-shadow: 5px 10px 8px #A6A0A1;
+}
+
+.logo{
+    width: 300px;
+}
+
+.item {
+background-color: #000000;
+color: #FFFFFF;
+margin: 2%;
+padding: 3%;
+}
+
+p{
+    color: #FFFFFF;
+}

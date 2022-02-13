@@ -1,0 +1,220 @@
+{
+  "mass":[ 
+    {
+      "id": "a1",
+      "item": "Tradicional",
+      "price": 5000,
+      "type": "mass",
+      "icon": ""
+    },
+    {
+      "id": "a2",
+      "item": "Delgada",
+      "price": 5000,
+      "type": "mass",
+      "icon": ""
+    },
+    {
+      "id": "a3",
+      "item": "Bordes de queso",
+      "price": 5000,
+      "type": "mass",
+      "icon": ""
+    }
+  ],
+  "cheese":[ 
+    {
+      "id": "b1",
+      "item": "Mozzarella",
+      "price": 1500,
+      "type": "cheese",
+      "icon": ""
+    },
+    {
+      "id": "b2",
+      "item": "Vegano",
+      "price": 1500,
+      "type": "cheese",
+      "icon": ""
+    },
+    {
+      "id": "b3",
+      "item": "Queso Azul",
+      "price": 3000,
+      "type": "cheese",
+      "icon": ""
+    },
+    {
+      "id": "b4",
+      "item": "Queso de cabra",
+      "price": 2500,
+      "type": "cheese",
+      "icon": ""
+    }
+  ],
+  "meat":[
+    {
+      "id": "c1",
+      "item": "Carne",
+      "price": 1000,
+      "type": "meat",
+      "icon": ""
+    },
+    {
+      "id": "c2",
+      "item": "Tocino",
+      "price": 1000,
+      "type": "meat",
+      "icon": ""
+    },
+    {
+      "id": "c3",
+      "item": "Pepperoni",
+      "price": 1000,
+      "type": "meat",
+      "icon": ""
+    },
+    {
+      "id": "c4",
+      "item": "Pollo",
+      "price": 1000,
+      "type": "meat",
+      "icon": ""
+    },
+    {
+      "id": "c4",
+      "item": "Jamon Serrano",
+      "price": 1000,
+      "type": "meat",
+      "icon": ""
+    }
+  ],
+  "vegetables":[
+    {
+      "id": "d1",
+      "item": "Tomate",
+      "price": 500,
+      "type": "vegetables",
+      "icon": ""
+    },
+    {
+      "id": "d2",
+      "item": "Champiñon",
+      "price": 500,
+      "type": "vegetables",
+      "icon": ""
+    },
+    {
+      "id": "d3",
+      "item": "Choclo",
+      "price": 500,
+      "type": "vegetables",
+      "icon": ""
+    },
+    {
+      "id": "d4",
+      "item": "Piña",
+      "price": 500,
+      "type": "vegetables",
+      "icon": ""
+    },
+    {
+      "id": "d5",
+      "item": "Pimenton",
+      "price": 500,
+      "type": "vegetables",
+      "icon": ""
+    },
+    {
+      "id": "d6",
+      "item": "Cebolla",
+      "price": 500,
+      "type": "vegetables",
+      "icon": ""
+    },
+    {
+      "id": "d7",
+      "item": "Jalapeño",
+      "price": 500,
+      "type": "vegetables",
+      "icon": ""
+    },
+    {
+      "id": "d8",
+      "item": "Aceitunas",
+      "price": 500,
+      "type": "vegetables",
+      "icon": ""
+    },
+    {
+      "id": "d9",
+      "item": "Albahaca",
+      "price": 500,
+      "type": "vegetables",
+      "icon": ""
+    },
+    {
+      "id": "d10",
+      "item": "Rucula",
+      "price": 500,
+      "type": "vegetables",
+      "icon": ""
+    }
+  ],
+  "extra":[
+  {
+      "id": "e1",
+      "item": "Palitos de ajo",
+      "price": 3500,
+      "type": "extra",
+      "icon": ""
+    },
+    {
+      "id": "e2",
+      "item": "Palitos de queso",
+      "price": 3500,
+      "type": "extra",
+      "icon": ""
+    },
+    {
+      "id": "e3",
+      "item": "Chicken poppers",
+      "price": 4500,
+      "type": "extra",
+      "icon": ""
+    }
+  ],
+  "drinks":[
+    {
+      "id": "f1",
+      "item": "Kombucha",
+      "price": 2000,
+      "type": "drinks",
+      "icon": ""
+    },
+    {
+      "id": "f2",
+      "item": "Te frio",
+      "price": 2000,
+      "type": "drinks",
+      "icon": ""
+    },
+    {
+      "id": "f3",
+      "item": "Cerveza Artesanal",
+      "price": 2000,
+      "type": "drinks",
+      "icon": ""
+    },
+    {
+      "id": "f4",
+      "item": "Jugo natural",
+      "price": 2000,
+      "type": "drinks",
+      "icon": ""
+    }
+  ]
+}
+
+
+
