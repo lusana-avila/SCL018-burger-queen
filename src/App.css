@@ -98,3 +98,66 @@ padding: 3%;
 p{
     color: #FFFFFF;
 }
+
+.nav{
+    display: flex;
+    height: 20vh;
+    align-items: center;
+}
+
+.logoHeader{
+    width: 30%;
+
+}
+
+.logoDos{
+    width: 150px;
+    margin-left: 5%;
+}
+
+.waiter-button-header{
+    background-color: #93A85B;
+    width: 200px;
+    height: 50px;
+    margin-right: 50px;
+}
+
+.kitchen-button-header{
+    background-color: #EDAC45;
+    width: 200px;
+    height: 50px;  
+    margin-right: 50px;
+}
+
+.home-button-header{
+    background-color: #F2585A;
+    width: 80px;
+    height: 50px;
+}
+
+.waiter-button-header:hover{
+    box-shadow: 5px 10px 8px #A6A0A1;
+}
+
+.kitchen-button-header:hover{
+    box-shadow: 5px 10px 8px #A6A0A1;
+}
+
+.home-button-header:hover{
+    box-shadow: 5px 10px 8px #A6A0A1;
+}
+
+.buttonsHeader{
+    width: 70%;
+    display: flex;
+    align-items: row;
+    justify-content: flex-end;
+    margin-right: 4%;
+}
+
+.container-cocina{
+    margin-top: 10%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
